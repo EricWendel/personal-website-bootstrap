@@ -9,7 +9,30 @@ h1 {
   font-size: 50px;
 }
 
-p {
+/* font awesome icons */
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 2px;
+}
 
+/* Hover effect */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* LinkedIn */
+.fa-linkedin {
+  background: #007bb5;
+  color: white;
+}
+
+/* Github */
+.fa-github {
+  background: black;
+  color: white;
 }
 
